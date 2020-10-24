@@ -1,4 +1,4 @@
-package springcloud.service;
+package cn.codewjj.springcloud.service;
 
 import cn.codewjj.springcloud.model.Payment;
 import org.apache.ibatis.annotations.Param;

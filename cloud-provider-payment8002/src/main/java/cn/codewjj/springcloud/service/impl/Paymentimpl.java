@@ -1,4 +1,4 @@
-package springcloud.service.impl;
+package cn.codewjj.springcloud.service.impl;
 
 import cn.codewjj.springcloud.mapper.PaymentMapper;
 import cn.codewjj.springcloud.model.Payment;

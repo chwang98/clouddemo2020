@@ -1,4 +1,4 @@
-package springcloud.mapper;
+package cn.codewjj.springcloud.mapper;
 
 import cn.codewjj.springcloud.model.Payment;
 import org.apache.ibatis.annotations.Mapper;
